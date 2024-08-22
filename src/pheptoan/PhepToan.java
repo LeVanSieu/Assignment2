@@ -17,7 +17,7 @@ public class PhepToan {
         System.out.println("Hieu 2 so a va b: "+ d);
         System.out.println("Tich 2 so a va b: "+ e);
         System.out.println("Chia 2 so a va b: "+ f);
-        System.out.println(19"Chia lay du 2 so a va b: "+ i);
+        System.out.println("Chia lay du 2 so a va b: "+ i);
     }
     
 }
