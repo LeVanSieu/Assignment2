@@ -6,7 +6,9 @@ import java.util.Scanner;
 public class PhepToan {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
+        System.out.println("Nhap so nguyen a: ");
         int a=scanner.nextInt();
+        System.out.println("Nhap so nguyen b: ");
         int b=scanner.nextInt();
         int c=a+b;
         int d=a-b;
